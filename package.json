@@ -1,0 +1,20 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "Shortens long urls into small string ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suhaas",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "http-errors": "^2.0.0",
+    "mongoose": "^6.4.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19",
+    "shortid": "^2.2.16"
+  }
+}
